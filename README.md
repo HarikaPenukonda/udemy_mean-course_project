@@ -1,5 +1,5 @@
 # udemy_mean-course_project
-This is a mean stack project where we use Mongo DB, Express, Angular and NodeJs
+## This is a mean stack project where we use Mongo DB, Express, Angular and NodeJs
 
 ## Angular and NodeJS - The Mean Stack Guide
 
